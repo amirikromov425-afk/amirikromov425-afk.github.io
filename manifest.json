@@ -1,0 +1,21 @@
+{
+  "name": "ChizBiz",
+  "short_name": "ChizBiz",
+  "start_url": "/chizbiz/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://amirikromov425-afk.github.io/chizbiz/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://amirikromov425-afk.github.io/chizbiz/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
